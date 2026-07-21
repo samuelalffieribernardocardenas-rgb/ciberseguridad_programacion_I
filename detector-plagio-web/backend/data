@@ -1,0 +1,41 @@
+[
+  {
+    "id": "mrv2ylsd-ikc6lq",
+    "username": "admin2",
+    "googleEmail": "admin2@test.com",
+    "role": "admin",
+    "passwordSalt": "5a406fd98598d2134e5e506b19c48e86",
+    "passwordHash": "b0fa19549a518e5cbcce6c3e4bbcfca62c3899ccab8bffd2871433d3ddecdc40aa215b4c9f2f579a19c851cee7890169630cb354cc498c2049a26ebbc0ff4f65",
+    "failedAttempts": 0,
+    "lockUntil": 0,
+    "createdAt": "2026-07-21T20:02:38.461Z",
+    "lastLoginAt": null,
+    "active": true
+  },
+  {
+    "id": "mrv3ab49-ojssv9",
+    "username": "samuelito",
+    "googleEmail": "samuel@gmail.com",
+    "role": "user",
+    "passwordSalt": "360af37cda8e4a0e579075db556fe2bd",
+    "passwordHash": "2345bd62e3821506598fef3e3b9a38e15e0cd6837a08d37729d0b93dd8b2fdebafa69870155f846820d6e5c6d50c8cee08e7937de1728b291ce391aa186ee35e",
+    "failedAttempts": 0,
+    "lockUntil": 0,
+    "createdAt": "2026-07-21T20:11:44.509Z",
+    "lastLoginAt": "2026-07-21T20:11:47.434Z",
+    "active": true
+  },
+  {
+    "id": "mrv3hfwg-1uefvp",
+    "username": "samuelito_bc",
+    "googleEmail": "samuelito@gmail.com",
+    "role": "user",
+    "passwordSalt": "8fd55e084c2288989c6ff8c1ff77db5b",
+    "passwordHash": "406fbbae69484df223dec0f4c25636153708f83d73150b9742dec04df726294b341e8daf30ae1c0e47f76df43c97d8c6e800fee7419dd61c8b1a52541a54fb62",
+    "failedAttempts": 0,
+    "lockUntil": 0,
+    "createdAt": "2026-07-21T20:17:17.317Z",
+    "lastLoginAt": "2026-07-21T20:17:39.921Z",
+    "active": true
+  }
+]
